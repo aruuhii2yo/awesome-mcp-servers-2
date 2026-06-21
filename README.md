@@ -290,6 +290,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- <img src="https://jk-advanced-tech-web.s3.us-east-2.amazonaws.com/maxion-icon.svg" height="14"/> [maxion-mcp-gateway](https://github.com/aruuhii2yo/maxion-mcp-gateway) - J&K Advanced Technologies enterprise compute MCP suite for data centers and HPC. Maxion V16 eliminates rack heat accumulation, cuts server power draw 36%, and prevents thermal throttling fleet-wide. Single fleet key covers thousands of nodes. Also includes Diamonize LSA zero-trust security, Quezar AES-256-GCM encrypted storage (92x compression), and Lineage.0 VC 4K AI video. Auto-activated 30-min free trial.
 ## ⚙️ <a name="workflow-automation"></a>Workflow Automation
 
 > Integration with workflow automation platforms allows AI models to execute workflows and retrieve data back to their systems.
@@ -463,6 +464,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+- <img src="https://jk-advanced-tech-web.s3.us-east-2.amazonaws.com/maxion-icon.svg" height="14"/> [maxion-mcp-gateway](https://github.com/aruuhii2yo/maxion-mcp-gateway) - Enterprise MCP suite with Diamonize LSA military-grade zero-trust security scanning for data center racks, HPC clusters, and campus networks. Also includes Maxion V16 thermal crisis mitigation (36% power draw reduction), Quezar AES-256-GCM encrypted storage, and Lineage.0 VC 4K AI video via Amazon Nova Reel 1.1. Auto-activated 30-min free trial.
 ## 🔌 <a name="iot"></a>IoT
 
 > Tools that integrate with Internet of Things connectivity.
